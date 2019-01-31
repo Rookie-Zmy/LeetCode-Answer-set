@@ -34,7 +34,7 @@ LeetCode练习集
   [题目链接](https://leetcode.com/problems/string-without-aaa-or-bbb/)  
 
   **题目大意：**  
-  给你 **N** 个 **a** 与 **M** 个 **b** ，返回任意不存在aaa或bbb的字符串，保证存在至少种情况
+  给你 **N** 个 **a** 与 **M** 个 **b** ，返回任意不存在aaa或bbb的字符串，保证存在至少1种情况
 
   **解题思路：**  
   模拟题，莫名感觉写的稍微丑了点
