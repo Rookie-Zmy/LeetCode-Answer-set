@@ -1,7 +1,5 @@
 package com.code.leetcode;
 
-import javafx.util.Pair;
-
 import java.util.Stack;
 
 public class LeetCode331VerifyPreorderSerializationOfABinaryTree {

@@ -1,7 +1,5 @@
 package com.code.leetcode;
 
-import java.util.Stack;
-
 public class LeetCode232ImplementQueueUsingStacks {
 
     public static void main(String args[]) {
